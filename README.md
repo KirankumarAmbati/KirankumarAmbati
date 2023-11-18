@@ -1,7 +1,7 @@
 # <b>👋 Hey, nice to meet you!</b>
 <br>
 <p>
-  I'm Kirankumar, Frontend Engineer from 🇮🇳 <b>Hyderabad, India</b>. Working for <img src="https://www.servicenow.com/content/dam/servicenow-assets/images/meganav/servicenow-header-logo.svg" width = 100/></p>
+  I'm Kirankumar, Frontend Engineer from 🇮🇳 <b>Hyderabad, India</b>. Working for <strong>Atlassian</strong> </p>
   
 <!--
 **KirankumarAmbati/KirankumarAmbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
