@@ -1,7 +1,7 @@
 # <b>👋 Hey, nice to meet you!</b>
 <br>
 <p>
-  I'm Kirankumar, Frontend Engineer from 🇮🇳 <b>Hyderabad, India</b>. Working for <strong>Atlassian</strong> </p>
+  I'm Kirankumar, Senior Frontend Engineer from 🇮🇳 <b>Hyderabad, India</b>. Working for <strong>Atlassian</strong> </p>
   
 <!--
 **KirankumarAmbati/KirankumarAmbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
